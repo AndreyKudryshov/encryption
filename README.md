@@ -1,2 +1,2 @@
-# encryption
+# encryption or decryption
 file encryption
